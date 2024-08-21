@@ -1,0 +1,32 @@
+The C Programming Language (sometimes referred to as K&R, after its authors' initials) is a computer programming book 
+written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, 
+as well as co-designed the Unix operating system with which development of the language was closely intertwined. 
+The book was central to the development and popularization of the C programming language and is still widely read and used
+today. Because the book was co-authored by the original language designer, and because the first edition of the book served 
+for many years as the de facto standard for the language, the book was regarded by many to be the authoritative reference on C.
+
+History
+
+The first edition of the book, published in 1978, was the first widely available book on the C programming language. C was created by Dennis Ritchie. Brian Kernighan wrote the first C tutorial.[3] The authors came together to write the book in conjunction with the language's early development at AT&T Bell Labs. The version of C described in this book is sometimes referred to as K&R C (after the book's authors), often to distinguish this early version from the later version of C standardized as ANSI C.
+
+In 1988, the second edition of the book was published, updated to cover the changes to the C programming language resulting from the then-new ANSI C standard, particularly with the inclusion of reference material on standard libraries. The second edition (and as of 2016, the most recent edition) of the book has since been translated into over 20 languages. In 2012 an eBook version of the second edition was published in ePub, Mobi, and PDF formats.
+
+ANSI C, first standardized in 1988, has since undergone several revisions, the most recent of which is ISO/IEC 9899:2011 (also known as "C11"), adopted as an ANSI standard in October 2011. However, no new edition of The C Programming Language has been issued to cover the more recent standards.
+Reception
+
+BYTE stated in August 1983, "[The C Programming Language] is the definitive work on the C language. Don't read any further until you have this book!"[1] Jerry Pournelle wrote in the magazine that year that the book "is still the standard ... a bit terse". He continued, "You can learn the C language without getting Kernighan and Ritchie, but that's doing it the hard way. You're also working too hard if you make it the only book on C that you buy."[5]
+Influence
+
+The C Programming Language has often been cited as a model for technical writing, due to the book's clear presentation and concise treatment. In just 228 pages (272 pages in the second edition), the book covers C comprehensively. Examples generally consist of complete programs of the type one is likely to encounter in daily usage of the language, with an emphasis on system programming. The technical details of C are balanced by the authors' observations on good programming practice, which are immediately illustrated with concrete, realistic examples.
+
+We have tried to retain the brevity of the first edition. C is not a big language, and it is not well served by a big book. We have improved the exposition of critical features, such as pointers, that are central to C programming. We have refined the original examples, and have added new examples in several chapters. For instance, the treatment of complicated declarations is augmented by programs that convert declarations into words and vice versa. As before, all examples have been tested directly from the text, which is in machine-readable form.
+
+Perhaps the most famous example program from the book is its "hello, world" program, which just prints out the text "hello, world", as an illustration of a minimal working C program. Numerous texts since then have followed that convention for introducing a programming language.
+
+Before the advent of ANSI C, the first edition of the text served as the de facto standard of the language for writers of C compilers. With the standardization of ANSI C, the authors more consciously geared the second edition toward programmers rather than compiler writers; in the authors' own words:
+
+Appendix A, the reference manual, is not the standard, but our attempt to convey the essentials of the standard in a smaller space. It is meant for easy comprehension by programmers, but not as a definition for compiler writers—that role properly belongs to the standard itself. Appendix B is a summary of the facilities of the standard library. It too is meant for reference by programmers, not implementers. Appendix C is a concise summary of the changes from the original version.
+
+The influence of The C Programming Language on programmers, a generation of whom first worked with C in universities and industry, has led many to accept the authors' programming style and conventions as recommended practice, if not normative practice. For example, the coding and formatting style of the programs presented in both editions of the book is often referred to as "K&R style" or the "One True Brace Style" and, significantly, became the coding style used by convention in the source code for the Unix and Linux kernels.
+
+
